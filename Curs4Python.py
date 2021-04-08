@@ -3,3 +3,4 @@ if not is_data:
     print('Hello')
 else:
     print('World')
+    print('Test')
