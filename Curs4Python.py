@@ -4,3 +4,4 @@ if not is_data:
 else:
     print('World')
     print('Test')
+    print('TestMerge')
